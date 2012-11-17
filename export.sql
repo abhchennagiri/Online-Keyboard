@@ -73,7 +73,7 @@ CREATE TABLE IF NOT EXISTS `users` (
 --
 
 INSERT INTO `users` (`id`, `first_name`, `last_name`, `user_name`, `email`, `password`, `user_type`) VALUES
-(1, 'Suresh', 'Alse', 'alseambusher', 'alseambusher@gmail.com', 'alseambusher', 'composer'),
+(1, 'Abhay', 'Chennagiri', 'abhchennagiri', 'abhchennagiri@gmail.com', 'abhay', 'composer'),
 (2, 'hacker', '007', 'hacker', 'hacker@gmail.com', '123456', 'pro composer');
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
